@@ -212,6 +212,10 @@ body {
     padding: 40px 0;
   }
 
+  .main-text h1 {
+    line-height: 3rem;
+  }
+
   .img-dentist {
     align-self: center;
     max-width: 60%;
