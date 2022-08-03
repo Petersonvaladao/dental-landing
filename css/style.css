@@ -209,6 +209,10 @@ body {
     background-color:#F7FCFA;
   }
 
+  .main-info {
+    padding-left: 25px;
+  }
+
   .main-text {
     padding: 40px 0;
   }
